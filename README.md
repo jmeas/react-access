@@ -1,4 +1,6 @@
 # react-access
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sprjr/react-access.svg)](https://greenkeeper.io/)
 React Context driven role-access for conditional rendering of components.
 
 ## Quick Start
